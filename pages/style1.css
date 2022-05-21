@@ -1,0 +1,17 @@
+.card{
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+    vertical-align: top;
+    
+}
+
+.rodape{
+    color: white;
+    padding: 50px 0;
+}
+
+.corrossel{
+    margin-bottom: 30px;
+}
